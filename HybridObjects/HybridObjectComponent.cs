@@ -15,7 +15,6 @@ namespace EcsScripts.HybridObjects
     /// <param name="SetPosition">If true, the entity will be initialized with the specified <paramref name="Position"/> and <paramref name="Rotation"/>.</param>
     /// <param name="Position">The position to apply when initializing the entity.</param>
     /// <param name="Rotation">The rotation to apply when initializing the entity.</param>
-    /// </summary>
     
     public class HybridObjectPrefab: IComponentData
     {
